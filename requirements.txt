@@ -1,0 +1,5 @@
+gradio
+PyQt6
+PyQt6-WebEngine
+keyboard
+requests 
